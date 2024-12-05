@@ -1,0 +1,14 @@
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\bin\Debug\net9.0\ErrorHandling.exe
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\bin\Debug\net9.0\ErrorHandling.deps.json
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\bin\Debug\net9.0\ErrorHandling.runtimeconfig.json
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\bin\Debug\net9.0\ErrorHandling.dll
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\bin\Debug\net9.0\ErrorHandling.pdb
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\obj\Debug\net9.0\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\obj\Debug\net9.0\ErrorHandling.AssemblyInfoInputs.cache
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\obj\Debug\net9.0\ErrorHandling.AssemblyInfo.cs
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\obj\Debug\net9.0\ErrorHandling.csproj.CoreCompileInputs.cache
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\obj\Debug\net9.0\ErrorHandling.dll
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\obj\Debug\net9.0\refint\ErrorHandling.dll
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\obj\Debug\net9.0\ErrorHandling.pdb
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\obj\Debug\net9.0\ErrorHandling.genruntimeconfig.cache
+c:\Code\C#\ERROR_HANDLING\ErrorHandling\obj\Debug\net9.0\ref\ErrorHandling.dll
